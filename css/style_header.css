@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    min-width: 100vw;
+    min-height: 15vh;
+    border: 2px solid red;
+}
+
+.header_left_item{
+    display: flex;
+    align-items: center;
+    border: 2px solid green;
+    min-width: 50%;
+    min-height: 100%;
+}
+.wrapper_header_left_item{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    min-width: 85%;
+    min-height: 90%;
+    font-size: 22px;
+    border: 2px solid red;
+}
+.header_right_item{
+    display: flex;
+    align-items: center;
+    min-width: 50%;
+    min-height: 100%;
+}
+.wrapper_header_right_item{
+    display: flex;
+    flex-direction: column;
+    min-width: 50%;
+    min-height: 70%;
+    font-size: 22px;
+}
+.header_right_item_pfone{
+   
+}
+.header_right_item_email{
+    
+}

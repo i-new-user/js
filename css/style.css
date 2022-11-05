@@ -1,0 +1,15 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+html, body{
+    background-color: rgb(23, 22, 22);
+    color: rgb(114, 112, 112);
+}
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  min-width: 100vw;
+  min-height: 100vh;
+}
