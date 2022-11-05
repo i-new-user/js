@@ -2,13 +2,12 @@
     display: flex;
     min-width: 100vw;
     min-height: 15vh;
-    border: 2px solid red;
+    border-bottom: 2px solid rgb(210, 62, 62);
 }
 
 .header_left_item{
     display: flex;
     align-items: center;
-    border: 2px solid green;
     min-width: 50%;
     min-height: 100%;
 }
@@ -18,8 +17,7 @@
     align-items: center;
     min-width: 85%;
     min-height: 90%;
-    font-size: 22px;
-    border: 2px solid red;
+    font-size: 28px;
 }
 .header_right_item{
     display: flex;
