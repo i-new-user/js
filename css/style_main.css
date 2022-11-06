@@ -1,0 +1,7 @@
+.main{
+    flex: 1 0 auto;
+    display: flex;
+    min-width: 100vw;
+    height: 100%;
+    border-top: 2px solid rgb(210, 62, 62);
+}
