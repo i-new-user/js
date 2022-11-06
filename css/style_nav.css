@@ -1,0 +1,17 @@
+.nav{
+    min-width: 100%;
+    border-bottom: 2px solid rgb(59, 156, 241);
+}
+.ul{
+    display: flex;
+    min-width: 100%;
+    border-bottom: 2px solid rgb(196, 246, 78);
+}
+.li{
+   color:bisque;
+   list-style-type: none;
+   padding: 10px 0px 5px 0px;   
+}
+a{
+   text-decoration: none; 
+}
